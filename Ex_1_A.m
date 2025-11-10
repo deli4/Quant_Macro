@@ -6,10 +6,10 @@
 %% Establish all paths 
 %set directory of the main code
 %function path 
-function_path= addpath(pwd,'01_functions');
+function_path= addpath(pwd,'functions');
 
 % graph path 
-graph_save = fullfile(pwd,'02_graphs'); %the graph folder
+graph_save = fullfile(pwd,'graphs'); %the graph folder
 
 
 %% 
